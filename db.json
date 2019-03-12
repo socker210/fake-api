@@ -1,6 +1,7 @@
 {
   "pension": {
     "pensionName": "펜션 하하 펜션 하하하하하",
+    "minPeopleCount": 1,
     "maxPeopleCount": 6
   }
 }
