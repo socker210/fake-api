@@ -34,5 +34,35 @@
     "image": "https://via.placeholder.com/156",
     "is_promotion": true,
     "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A107",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A108",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A109",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A110",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A111",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
+  }, {
+    "name": "비치동 리버뷰A112",
+    "image": "https://via.placeholder.com/156",
+    "is_promotion": true,
+    "available_reservation": false
   }]
 }
