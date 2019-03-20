@@ -160,5 +160,8 @@
     ],
     "is_promotion": true,
     "available_reservation": false
-  }]
+  }],
+  "cart_result": {
+    "ok": true
+  }
 }
