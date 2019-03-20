@@ -161,7 +161,10 @@
     "is_promotion": true,
     "available_reservation": false
   }],
-  "cart_result": {
-    "ok": true
-  }
+  "add_cart": "cart",
+  "get_cart": [
+    "cart",
+    "cart",
+    "cart"
+  ]
 }
