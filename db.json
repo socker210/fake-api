@@ -196,7 +196,7 @@
     "child_count": 0,
     "toddler_count": 0
   }],
-  "delete_cart": {
+  "remove_cart": {
     "ok": true
   }
 }
