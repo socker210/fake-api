@@ -198,5 +198,8 @@
   }],
   "remove_cart": {
     "ok": true
+  },
+  "calendar": {
+    "ok": true
   }
 }
