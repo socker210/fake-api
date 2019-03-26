@@ -196,10 +196,7 @@
     "child_count": 0,
     "toddler_count": 0
   }],
-  "remove_cart": {
-    "ok": true
-  },
-  "calendar": {
+  "fake_api": {
     "ok": true
   }
 }
